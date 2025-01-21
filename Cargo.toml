@@ -2,6 +2,10 @@
 name = "rustclock"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "a stopwatch or timer cli made in rust"
+repository = "https://github.com/RustMaster-arch/rustclock"
+readme = "README.md"
 
 [dependencies]
 clap = { version = "4.5.26", features = ["derive"] }
